@@ -4,7 +4,7 @@ namespace Consoleapp1
  { 
   static void Main()
   {
-   Console.WriteLine("MY Git")
+   Console.WriteLine("MY Git");
    }
   
  }
